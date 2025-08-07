@@ -51,7 +51,7 @@ export default function Home() {
 }
 ```
 
-##🎨 Estilo e Interatividade
+## 🎨 Estilo e Interatividade
 Cores e espaçamentos fiéis ao design fornecido
 
 Botões com efeito hover (zoom + mudança de cor)
